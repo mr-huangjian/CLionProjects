@@ -1,3 +1,0 @@
-/Users/huangjian/CLionProjects/C_First/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/huangjian/CLionProjects/C_First/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/huangjian/CLionProjects/C_First/cmake-build-debug/CMakeFiles/C_First.dir
