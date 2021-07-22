@@ -10,7 +10,9 @@
 
 #include <stdio.h>
 
+/*
 int main() {
+
     char * a = "hello"; // 可以被全新赋值，不可以被单独字符赋值
     char b[] = "hello"; // 不可以被全新赋值，可以被单独字符赋值
 
@@ -32,3 +34,4 @@ int main() {
 
     return 0;
 }
+*/
