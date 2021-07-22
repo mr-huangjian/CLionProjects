@@ -4,6 +4,7 @@
 
 #include <stdio.h>
 
+/*
 main() {
     printf("File: %s\n", __FILE__ ); // /Volumes/Data/CLionProjects/C_Second/preprocessor.c
     printf("Date: %s\n", __DATE__ ); // Jul 22 2021
@@ -12,4 +13,5 @@ main() {
     printf("ANSI: %d\n", __STDC__ ); // 1
 
 }
+*/
 
