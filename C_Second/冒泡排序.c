@@ -11,7 +11,7 @@
  * N个数字要排序完成，总共进行N-1趟排序，每i趟的排序次数为(N-i)次，所以可以用双重循环语句，外层控制循环多少趟，内层控制每一趟的循环次数
  */
 
-sort(int arr[], int len) {
+/*sort(int arr[], int len) {
     int i, j, temp;
     for (i = 0; i < len - 1; i++) {
         for (j = 0; j < len - 1 - i; j++) {
@@ -22,9 +22,10 @@ sort(int arr[], int len) {
             }
         }
     }
-}
+}*/
 
 
+/*
 main() {
     int arr[] = {1, 3, 10, 4, 8, 6};
 
@@ -36,3 +37,4 @@ main() {
         printf("arr[%d] = %d\n", i, arr[i]);
     }
 }
+*/
