@@ -10,7 +10,9 @@ int factorial(int i) {
     return i * factorial(i - 1);
 }
 
+/*
 main() {
     int a = 4;
     printf("value: %d\n", factorial(a)); // 24
 }
+*/
