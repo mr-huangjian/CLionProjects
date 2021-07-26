@@ -18,6 +18,7 @@ swap(int * a, int * b) {
 }
 */
 
+/*
 sort(int arr[], int len) {
     int i, j, temp;
     for (i = 0; i < len - 1; i++) {
@@ -53,3 +54,4 @@ main() {
         printf("arr[%d] = %d\n", i, arr[i]);
     }
 }
+*/
